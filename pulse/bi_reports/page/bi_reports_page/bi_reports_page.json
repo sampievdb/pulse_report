@@ -1,0 +1,23 @@
+{
+ "content": null,
+ "creation": "2024-10-07 13:57:04.099893",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 2,
+ "modified": "2024-10-08 09:56:09.992986",
+ "modified_by": "Administrator",
+ "module": "BI Reports",
+ "name": "bi-reports-page",
+ "owner": "Administrator",
+ "page_name": "bi-reports-page",
+ "roles": [
+  {
+   "role": "Administrator"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "BI Reports Page"
+}
